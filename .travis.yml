@@ -11,3 +11,5 @@ after_success:
 addons:
   sonarcloud:
     organization: kariosm
+
+
